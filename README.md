@@ -14,3 +14,4 @@
 - [Article](http://www.acgeospatial.co.uk/blob-detection-on-satellite-imagery/)
 - [Tutorial](https://docs.opencv.org/3.4/d3/db4/tutorial_py_watershed.html)
 - [Sample cpp for ISWA](https://docs.opencv.org/3.4/d4/d40/samples_2cpp_2watershed_8cpp-example.html#a36)
+- [BloodCell Count](https://ieeexplore.ieee.org/document/8652384)
